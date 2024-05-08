@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Resource Management</string>
+
+    <string name="empty" />
+
+    <string name="username">Username</string>
+    <string name="username_hint">Enter any 4 char</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter any 8 char</string>
+    <string name="login">Login</string>
+    <string name="username_length_error">Username must be at least 4 character long</string>
+    <string name="password_length_error">Password must be at least 4 character long</string>
+
+    <string name="label_add">Add</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_done">Done</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_sort">Sort</string>
+    <string name="label_clear_all">Clear All</string>
+
+    <string name="icon_description_close">Close</string>
+    <string name="icon_description_done">Done</string>
+
+    <!-- Screen Name -->
+    <string name="screen_add_project">Add Project</string>
+    <string name="screen_add_resource">Add Resource</string>
+
+    <!-- Content Description -->
+    <string name="content_desc_add">Add</string>
+    <string name="content_desc_remove">Remove</string>
+    <string name="content_desc_delete">Delete</string>
+    <string name="content_desc_calendar">Calendar</string>
+    <string name="content_desc_dropdown_arrow">Dropdown Arrow</string>
+
+    <!-- Filter & Sort -->
+    <string name="title_project">Projects</string>
+    <string name="title_designation">Designation</string>
+    <string name="title_technologies">Technologies</string>
+
+    <!-- Resource List Screen -->
+    <string name="no_resource_available">No Resource Available</string>
+
+    <!-- Add Resource -->
+    <string name="label_name">Name</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="label_type">Type</string>
+    <string name="label_designation">Designation</string>
+    <string name="label_email">Email</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="label_contact">Contact Number</string>
+    <string name="hint_contact">Enter Contact Number</string>
+    <string name="label_date_of_joining">Date of Joining</string>
+    <string name="hint_date_of_joining">Enter Date of Joining</string>
+    <string name="label_linked_in_profile">LinkedIn Profile</string>
+    <string name="hint_linked_in_profile">Enter LinkedIn Profile</string>
+    <string name="label_compensation">Compensation</string>
+    <string name="hint_compensation">Enter Compensation Amount</string>
+    <string name="label_technology">Technology</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Enter Password</string>
+
+    <!-- Validation Messages -->
+    <string name="email_validation_empty_message">Email cannot be empty</string>
+    <string name="email_validation_message">Email is not valid</string>
+    <string name="contact_number_validation_empty_message">Contact number cannot be empty</string>
+    <string name="contact_number_validation_message">Contact number is not valid</string>
+    <string name="technology_validation_message">Select atleast 1 technology</string>
+    <string name="password_validation_empty_message">Password cannot be empty</string>
+    <string name="password_validation_message">Password must have atleast 6 characters</string>
+    <string name="date_of_joining_validation_empty_message">Date of joining cannot be empty</string>
+    <string name="linked_in_validation_empty_message">LinkedIn profile cannot be empty</string>
+    <string name="compensation_validation_empty_message">Compensation cannot be empty</string>
+
+    <!-- Project List Screen -->
+    <string name="no_project_available">No Project Available</string>
+
+    <!-- Project Details -->
+    <string name="client_logo_description">Client Logo</string>
+    <string name="project_logo_description">Project Logo</string>
+    <string name="project_description">Earn movies, meals, travel, shopping and more! Welcome to Scene+. Rewards your way!\n\n
+    Download the free app for:\n
+    • Instant access to your Scene+ card\n
+    • An easy way to keep track of transactions, points, and rewards\n
+    • Exclusive bonus offers sent right to your phone (for faster rewards!)</string>
+    <string name="project_start_date">Start Date</string>
+    <string name="project_end_date">End Date</string>
+    <string name="project_subprojects">Sub-Projects</string>
+    <string name="project_resources">Resources</string>
+    <string name="resource_logo_description">Resource Logo</string>
+    <string name="label_member_list">Member List</string>
+
+    <!-- Add Project -->
+    <string name="label_project_name">Project Name</string>
+    <string name="label_client">Client</string>
+    <string name="label_project_description">Project Description</string>
+    <string name="hint_description">Enter Description</string>
+    <string name="label_project_state">Project State</string>
+    <string name="label_project_scope">Project Scope</string>
+    <string name="label_project_start_date">Start Date</string>
+    <string name="hint_start_date">Start Date</string>
+    <string name="label_project_end_date">End Date</string>
+    <string name="label_project_add_resource">Add Resource</string>
+    <string name="label_project_add_subproject">Add Sub-Project</string>
+    <string name="label_resource">Resource</string>
+    <string name="label_count">Count</string>
+    <string name="project_name_length_error">Project name must be at least 4 character long</string>
+    <string name="project_description_length_error">Project description must be at least 20 character long</string>
+    <string name="scope_validation_message">Select atleast 1 scope</string>
+
+    <!-- Common -->
+    <string name="lbl_ok">Okay</string>
+    <string name="relogin">Re-login</string>
+
+    <!-- Error -->
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="GENERIC_TEMP_ERROR_TITLE">Temporarily unavailable</string>
+    <string name="GENERIC_TEMP_ERROR_MESSAGE">We expect this issue to be resolved shortly. Please try again later.</string>
+
+</resources>
